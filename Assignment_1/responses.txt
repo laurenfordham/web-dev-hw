@@ -1,14 +1,14 @@
-# How is the web different than the internet?
+ How is the web different than the internet?
   The Internet is a thing that lets us connect from one device to the other and share information. To do this we need to Web, which is a place where we can send documents and store documents based on a website. In order to have the web, we need a web browser, which is made up from the internet. Without websites, internet wouldn't be connective, without the internet, websites would be useless. 
 
-## Briefly describe how the internet works. ("Magic.")
+ Briefly describe how the internet works. ("Magic.")
   The internet works as different pathways and points that connect to one another. Each point of connectivity is made of circuits and wires that travel by either a wire or a wireless connection. This is based on signals and wavelengths. The signals are sent to one point to the other to create the information we are looking for. The websites in the internet are stores in different signal places, which we can access through a wireless signal. 
 
-### What is a directory, and what is its relationship to files?
+What is a directory, and what is its relationship to files?
   A directory is a place we can keep files but inside the internet. We can keep files nested in one another inside a Directory that is online. 
 
-#### Why is using a VCS beneficial?
+ Why is using a VCS beneficial?
   VCS lets us track our changes made overtime in each file. This makes it easy for us to see when the changes were made and if we please, to revert back to that original before the change. Since we are using online directories and using VCS on GitHub, it is open to anyone to see. Anyone can track our changes and see our files, this makes it very easy to share files. 
 
-#### State at least one thing you found interesting this topic, or that you didn't know before.
-  There were plenty of interesting things in this chapter. I found the architects thoughts on the internet very interesting. The fact that he wondered if there was a physical place to see the internet like he is with his buildings. I had never had the thought of the internet maybe being a place, it has always just been _there._ It was interesting to get that perspective on how he decided to figure out what the internet is! 
+ State at least one thing you found interesting this topic, or that you didn't know before.
+  There were plenty of interesting things in this chapter. I found the architects thoughts on the internet very interesting. The fact that he wondered if there was a physical place to see the internet like he is with his buildings. I had never had the thought of the internet maybe being a place, it has always just been there. It was interesting to get that perspective on how he decided to figure out what the internet is! 
