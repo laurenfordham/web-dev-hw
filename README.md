@@ -1,2 +1,3 @@
 # web-dev-hw
-Lauren Fordham
+Lauren Fordham 
+Homework for Web Design
