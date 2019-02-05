@@ -5,7 +5,7 @@
 
    I am excited to learn a lot more about the coding that goes into certain actions of a device in order for the internet to work. It will be super cool to learn more about how the internet was founded and what makes it work; which we already went over for the most part in lesson 1. I am also excited to become more proficient in GitHub and Atom!!
 
-    [Website I Frequent](https://moodle.umt.edu/login/index.php)
+    [Website I Frequent] (https://moodle.umt.edu/login/index.php)
 
-    [responses.txt](./responses.txt)
-    [Screenshot](./Screen_Shot-Assignment-02.png)
+    [responses.txt] (./responses.txt)
+    [Screenshot] (./Screen_Shot-Assignment-02.png)
