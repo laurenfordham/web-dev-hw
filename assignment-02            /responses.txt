@@ -1,0 +1,10 @@
+Briefly describe one way how data travels on the internet.
+    Data can travel through the internet using a network of wires and or cables that connect to different sources (e.p. device with data > wifi( which can be wireless or wired) > Internet Service > Another Device)
+
+What is the relationship between an IP address and the DNS?
+    An IP address is just a random set of numbers made specifically for that website, DNS is a system that looks up those numbers to give you a domain name instead of just a bunch of numbers.
+What is a cookie?
+The way a website remembers who you are. It is an ID card for the internet. Each time you log into a new website cookies will give a number that can be saved to always remember you.
+
+List the the three basic parts of a URL.
+((Protocol)(domain)(path))
